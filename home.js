@@ -4,7 +4,7 @@ const transactionData = [];
 
 // log out function
 document.getElementById("logOutBtn").addEventListener("click", () => {
-  window.location.href = "./login.html";
+  window.location.href = "./index.html";
 });
 
 
